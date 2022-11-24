@@ -21,7 +21,7 @@ $ pkg install python3
 $ pip install requests
 $ pip install bs4
 $ pip install keyboard
-$ git clone https://github.com/Judhas/spambrutal/blob/main/README.md
+$ git clone https://github.com/Judhas/spambrutal.git
 $ cd spambrutalv3
 $ ls
 $ python bot.py
